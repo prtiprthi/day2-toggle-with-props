@@ -1,5 +1,5 @@
 import ProfileCard from "./assets/components/ProfileCard";
-
+//toggle card with props - day 2
 function App() {
   return (
     <div style={style.container}>
